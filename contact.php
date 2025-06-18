@@ -13,6 +13,7 @@
             <?php require_once("includes/mainmenu.inc.php"); ?>
         <div class="contact">+31 6 13535888</div>
     </header>
+    <link rel="stylesheet" href="furniture/styles.css"> 
     
 </body>
 </html>

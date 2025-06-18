@@ -35,6 +35,7 @@
   <img src="./images/audi-e-tron-sportback-update.jpg" alt="audi e-tron Sportback" />
   <div class="card-title">Audi e-tron Sportback</div>
 </div>
+<link rel="stylesheet" href="furniture/styles.css"> 
 
 </body>
 </html>

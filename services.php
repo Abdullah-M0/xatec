@@ -16,7 +16,7 @@
   <div class="breadcrumb">HOME <span class="dot">•</span> <span class="red">CHASSIS & SUSPENSION MODIFICATIONS</span></div>
   <h1>CHASSIS & SUSPENSION<br>MODIFICATIONS</h1>
   </section>
-
+ <link rel="stylesheet" href="furniture/styles.css"> 
     </body>
     </html>
 

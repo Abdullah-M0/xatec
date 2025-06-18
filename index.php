@@ -41,5 +41,6 @@
                 <div class="card-title">Audi e-tron Sportback</div>
             </div>
         </section>
+        <link rel="stylesheet" href="furniture/styles.css"> 
     </body>
-</html>
+    </html>
