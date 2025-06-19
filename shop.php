@@ -132,9 +132,8 @@
 
     <!-- PRODUCT 1 -->
     <div class="product-card">
-      <div class="product-image">
-        <img src='./images/stage1.jpg' height='350px' wide='100px'>
-      </div>
+        <img src='./images/stage1.jpg' height='270px' wide='200px'>
+      
       <div class="product-content">
         <h3 class="product-title">Chiptuning Stage 1</h3>
         <p class="product-description"span style="color: red;">Meer pk en koppel voor jouw auto. Professioneel geoptimaliseerd.</span>
@@ -146,7 +145,7 @@
 
     <!-- PRODUCT 2 -->
     <div class="product-card">
-      <div class="product-image">Matte Wrap Rood</div>
+        <img src='./images/roode.jpg' height='250px' wide='100px'>
       <div class="product-content">
         <h3 class="product-title">Matte Wrap (Rood)</h3>
         <p class="product-description">Unieke uitstraling met hoogwaardige wrapfolie in rood mat.</p>
