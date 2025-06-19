@@ -28,19 +28,7 @@
             <div class="breadcrumb">
                 HOME <span class="dot">•</span> <span class="red">PROJECTS</span>
             </div>
-            <h1>PROJECTS</h1>
+            
         
 
-            <div class="card">
-                <img src="./images/61yYCS1YiYL._AC_UF1000,1000_QL80_.jpg" alt="audi e-tron Sportback" />
-                <div class="card-title">Skoda</div>
-            </div>
-
-            <div class="card">
-                <img src="./images/audi-e-tron-sportback-update.jpg" alt="audi e-tron Sportback" />
-                <div class="card-title">Audi e-tron Sportback</div>
-            </div>
-        </section>
-        <link rel="stylesheet" href="furniture/styles.css"> 
-    </body>
-    </html>
+            
