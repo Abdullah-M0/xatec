@@ -132,10 +132,13 @@
 
     <!-- PRODUCT 1 -->
     <div class="product-card">
-      <div class="product-image">Chiptuning ECU Stage 1</div>
+      <div class="product-image">
+        <img src='./images/stage1.jpg' height='350px' wide='100px'>
+      </div>
       <div class="product-content">
         <h3 class="product-title">Chiptuning Stage 1</h3>
-        <p class="product-description">Meer pk en koppel voor jouw auto. Professioneel geoptimaliseerd.</p>
+        <p class="product-description"span style="color: red;">Meer pk en koppel voor jouw auto. Professioneel geoptimaliseerd.</span>
+</p>
         <p class="product-price">€399,-</p>
         <a href="#" class="buy-button">Bestel nu</a>
       </div>
