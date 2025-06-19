@@ -89,3 +89,7 @@ nav ul li a:hover {
   color: blueviolet;
   text-align: center;
 }
+
+.card {
+  height: 20px;
+}
