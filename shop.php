@@ -19,7 +19,7 @@
   <title>Xatec Shop | Auto Upgrades</title>
   <style>
     :root {
-      --rood:rgb(100, 29, 29);
+      --rood:rgb(128, 44, 44);
       --zwart: #000;
       --wit: #fff;
     }
@@ -148,7 +148,7 @@
         <img src='./images/roode.jpg' height='250px' wide='100px'>
       <div class="product-content">
         <h3 class="product-title">Matte Wrap (Rood)</h3>
-        <p class="product-description">Unieke uitstraling met hoogwaardige wrapfolie in rood mat.</p>
+        <p class="product-description"span style="color: red;">Unieke uitstraling met hoogwaardige wrapfolie in rood mat.</span></p>
         <p class="product-price">€899,-</p>
         <a href="#" class="buy-button">Bestel nu</a>
       </div>
@@ -156,10 +156,10 @@
 
     <!-- PRODUCT 3 -->
     <div class="product-card">
-      <div class="product-image">Carbon Spoiler</div>
+        <img src='./images/bmw.jpg' height='250px' wide='100px'>
       <div class="product-content">
         <h3 class="product-title">Carbon Achterspoiler</h3>
-        <p class="product-description">Sportieve look + betere downforce. Echt carbon, geen imitatie.</p>
+        <p class="product-description"span style="color: red;">Sportieve look + betere downforce. Echt carbon, geen imitatie.<span></p>
         <p class="product-price">€349,-</p>
         <a href="#" class="buy-button">Bestel nu</a>
       </div>
@@ -167,10 +167,10 @@
 
     <!-- PRODUCT 4 -->
     <div class="product-card">
-      <div class="product-image">LED Koplamp Upgrade</div>
+        <img src='./images/lamp.jpg' height='250px' wide='100px'>
       <div class="product-content">
         <h3 class="product-title">LED Koplamp Set</h3>
-        <p class="product-description">Betere zichtbaarheid + moderne look. Plug & play installatie.</p>
+        <p class="product-description"span style="color: red;">Betere zichtbaarheid + moderne look. Plug & play installatie.<span></p>
         <p class="product-price">€249,-</p>
         <a href="#" class="buy-button">Bestel nu</a>
       </div>
@@ -178,10 +178,10 @@
 
     <!-- PRODUCT 5 -->
     <div class="product-card">
-      <div class="product-image">Sportuitlaat Systeem</div>
-      <div class="product-content">
+         <img src='./images/gas.jpg' height='220px' wide='100px'>
+     <div class="product-content">
         <h3 class="product-title">Sportuitlaat Systeem</h3>
-        <p class="product-description">Stoer geluid en betere doorstroming. RVS materiaal.</p>
+        <p class="product-description"span style="color: red;">Stoer geluid en betere doorstroming. RVS materiaal.<span></p>
         <p class="product-price">€599,-</p>
         <a href="#" class="buy-button">Bestel nu</a>
       </div>
@@ -189,10 +189,10 @@
 
     <!-- PRODUCT 6 -->
     <div class="product-card">
-      <div class="product-image">Custom Velgen 18"</div>
-      <div class="product-content">
+     <img src='./images/wiel.jpg' height='250px' wide='100px'>
+     <div class="product-content">
         <h3 class="product-title">Custom Velgen 18"</h3>
-        <p class="product-description">Uniek design, lichtgewicht velgen in rood/zwart.</p>
+        <p class="product-description"span style="color: red;">Uniek design, lichtgewicht velgen in rood/zwart.<span></p>
         <p class="product-price">€799,-</p>
         <a href="#" class="buy-button">Bestel nu</a>
       </div>
@@ -200,10 +200,10 @@
 
     <!-- PRODUCT 7 -->
     <div class="product-card">
-      <div class="product-image">Interieur Ambient Light</div>
+         <img src='./images/led.jpg' height='250px' wide='100px'>
       <div class="product-content">
         <h3 class="product-title">Ambient Interieurverlichting</h3>
-        <p class="product-description">RGB sfeerverlichting voor dashboard en deuren.</p>
+        <p class="product-description"span style="color: red;">RGB sfeerverlichting voor dashboard en deuren.<span></p>
         <p class="product-price">€149,-</p>
         <a href="#" class="buy-button">Bestel nu</a>
       </div>
@@ -211,10 +211,10 @@
 
     <!-- PRODUCT 8 -->
     <div class="product-card">
-      <div class="product-image">Xatec Cadeaubon</div>
-      <div class="product-content">
+        <img src='./images/gift.jpg' height='250px' wide='100px'>
+       <div class="product-content">
         <h3 class="product-title">Xatec Cadeaubon</h3>
-        <p class="product-description">Perfect cadeau voor auto-liefhebbers. Kies je eigen bedrag.</p>
+        <p class="product-description"span style="color: red;">Perfect cadeau voor auto-liefhebbers. Kies je eigen bedrag.<span></p>
         <p class="product-price">Vanaf €25,-</p>
         <a href="#" class="buy-button">Bestel nu</a>
       </div>
